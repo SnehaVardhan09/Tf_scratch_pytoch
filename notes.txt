@@ -1,0 +1,2 @@
+1. Input embeddings
+2. postiton encoding
